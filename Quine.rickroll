@@ -1,0 +1,432 @@
+[Chorus]
+Never gonna let a down
+Never gonna give a 'a'
+Never gonna let b down
+Never gonna give b 'b'
+Never gonna let c down
+Never gonna give c 'c'
+Never gonna let d down
+Never gonna give d 'd'
+Never gonna let e down
+Never gonna give e 'e'
+Never gonna let f down
+Never gonna give f 'f'
+Never gonna let g down
+Never gonna give g 'g'
+Never gonna let h down
+Never gonna give h 'h'
+Never gonna let i down
+Never gonna give i 'i'
+Never gonna let j down
+Never gonna give j 'j'
+Never gonna let k down
+Never gonna give k 'k'
+Never gonna let l down
+Never gonna give l 'l'
+Never gonna let m down
+Never gonna give m 'm'
+Never gonna let n down
+Never gonna give n 'n'
+Never gonna let o down
+Never gonna give o 'o'
+Never gonna let p down
+Never gonna give p 'p'
+Never gonna let q down
+Never gonna give q 'q'
+Never gonna let r down
+Never gonna give r 'r'
+Never gonna let s down
+Never gonna give s 's'
+Never gonna let t down
+Never gonna give t 't'
+Never gonna let u down
+Never gonna give u 'u'
+Never gonna let v down
+Never gonna give v 'v'
+Never gonna let w down
+Never gonna give w 'w'
+Never gonna let x down
+Never gonna give x 'x'
+Never gonna let y down
+Never gonna give y 'y'
+Never gonna let z down
+Never gonna give z 'z'
+Never gonna let A down
+Never gonna give A 'A'
+Never gonna let B down
+Never gonna give B 'B'
+Never gonna let C down
+Never gonna give C 'C'
+Never gonna let D down
+Never gonna give D 'D'
+Never gonna let E down
+Never gonna give E 'E'
+Never gonna let F down
+Never gonna give F 'F'
+Never gonna let G down
+Never gonna give G 'G'
+Never gonna let H down
+Never gonna give H 'H'
+Never gonna let I down
+Never gonna give I 'I'
+Never gonna let J down
+Never gonna give J 'J'
+Never gonna let K down
+Never gonna give K 'K'
+Never gonna let L down
+Never gonna give L 'L'
+Never gonna let M down
+Never gonna give M 'M'
+Never gonna let N down
+Never gonna give N 'N'
+Never gonna let O down
+Never gonna give O 'O'
+Never gonna let P down
+Never gonna give P 'P'
+Never gonna let Q down
+Never gonna give Q 'Q'
+Never gonna let R down
+Never gonna give R 'R'
+Never gonna let S down
+Never gonna give S 'S'
+Never gonna let T down
+Never gonna give T 'T'
+Never gonna let U down
+Never gonna give U 'U'
+Never gonna let V down
+Never gonna give V 'V'
+Never gonna let W down
+Never gonna give W 'W'
+Never gonna let X down
+Never gonna give X 'X'
+Never gonna let Y down
+Never gonna give Y 'Y'
+Never gonna let Z down
+Never gonna give Z 'Z'
+Never gonna let space down
+Never gonna give space ' '
+Never gonna let newline down
+Never gonna give newline '\n'
+Never gonna let quote down
+Never gonna give quote '\''
+Never gonna let backslash down
+Never gonna give backslash '\\'
+Never gonna let lbracket down
+Never gonna give lbracket '['
+Never gonna let rbracket down
+Never gonna give rbracket ']'
+Never gonna let lparen down
+Never gonna give lparen '('
+Never gonna let rparen down
+Never gonna give rparen ')'
+Never gonna let lt down
+Never gonna give lt '<'
+Never gonna let colon down
+Never gonna give colon ':'
+Never gonna let plus down
+Never gonna give plus '+'
+Never gonna let comma down
+Never gonna give comma ','
+Never gonna let eqsign down
+Never gonna give eqsign '='
+Never gonna let bang down
+Never gonna give bang '!'
+Never gonna let zero down
+Never gonna give zero '0'
+Never gonna let one down
+Never gonna give one '1'
+Never gonna let two down
+Never gonna give two '2'
+Never gonna let three down
+Never gonna give three '3'
+Never gonna let four down
+Never gonna give four '4'
+Never gonna let five down
+Never gonna give five '5'
+Never gonna let six down
+Never gonna give six '6'
+Never gonna let seven down
+Never gonna give seven '7'
+Never gonna let eight down
+Never gonna give eight '8'
+Never gonna let nine down
+Never gonna give nine '9'
+Never gonna let src down
+Never gonna let tmp down
+Never gonna let counter down
+Never gonna let srclen down
+(Ooh give you src) Never gonna run ArrayOf and desert lbracket, C, h, o, r, u, s, rbracket, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, a, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, a, space, quote, a, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, b, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, b, space, quote, b, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, c, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, space, quote, c, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, d, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, d, space, quote, d, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, e, space, quote, e, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, f, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, f, space, quote, f, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, g, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, g, space, quote, g, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, h, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, h, space, quote, h, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, i, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, space, quote, i, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, j, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, j, space, quote, j, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, k, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, k, space, quote, k, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, l, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, l, space, quote, l, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, m, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, m, space, quote, m, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, n, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, n, space, quote, n, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, o, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, o, space, quote, o, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, p, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, p, space, quote, p, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, q, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, q, space, quote, q, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, r, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, r, space, quote, r, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, s, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, s, space, quote, s, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, t, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, t, space, quote, t, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, u, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, u, space, quote, u, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, v, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, v, space, quote, v, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, w, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, w, space, quote, w, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, x, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, x, space, quote, x, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, y, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, y, space, quote, y, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, z, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, z, space, quote, z, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, A, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, A, space, quote, A, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, B, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, B, space, quote, B, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, C, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, C, space, quote, C, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, D, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, D, space, quote, D, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, E, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, E, space, quote, E, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, F, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, F, space, quote, F, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, G, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, G, space, quote, G, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, H, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, H, space, quote, H, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, I, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, I, space, quote, I, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, J, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, J, space, quote, J, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, K, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, K, space, quote, K, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, L, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, L, space, quote, L, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, M, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, M, space, quote, M, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, N, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, N, space, quote, N, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, O, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, O, space, quote, O, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, P, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, P, space, quote, P, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, Q, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, Q, space, quote, Q, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, R, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, R, space, quote, R, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, S, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, S, space, quote, S, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, T, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, T, space, quote, T, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, U, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, U, space, quote, U, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, V, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, V, space, quote, V, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, W, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, W, space, quote, W, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, X, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, X, space, quote, X, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, Y, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, Y, space, quote, Y, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, Z, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, Z, space, quote, Z, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, s, p, a, c, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, s, p, a, c, e, space, quote, space, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, n, e, w, l, i, n, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, n, e, w, l, i, n, e, space, quote, backslash, n, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, q, u, o, t, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, q, u, o, t, e, space, quote, backslash, quote, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, b, a, c, k, s, l, a, s, h, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, b, a, c, k, s, l, a, s, h, space, quote, backslash, backslash, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, l, b, r, a, c, k, e, t, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, l, b, r, a, c, k, e, t, space, quote, lbracket, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, r, b, r, a, c, k, e, t, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, r, b, r, a, c, k, e, t, space, quote, rbracket, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, l, p, a, r, e, n, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, l, p, a, r, e, n, space, quote, lparen, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, r, p, a, r, e, n, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, r, p, a, r, e, n, space, quote, rparen, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, l, t, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, l, t, space, quote, lt, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, c, o, l, o, n, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, l, o, n, space, quote, colon, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, p, l, u, s, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, p, l, u, s, space, quote, plus, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, c, o, m, m, a, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, m, m, a, space, quote, comma, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, e, q, s, i, g, n, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, e, q, s, i, g, n, space, quote, eqsign, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, b, a, n, g, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, b, a, n, g, space, quote, bang, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, z, e, r, o, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, z, e, r, o, space, quote, zero, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, o, n, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, o, n, e, space, quote, one, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, t, w, o, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, t, w, o, space, quote, two, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, t, h, r, e, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, t, h, r, e, e, space, quote, three, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, f, o, u, r, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, f, o, u, r, space, quote, four, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, f, i, v, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, f, i, v, e, space, quote, five, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, s, i, x, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, s, i, x, space, quote, six, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, s, e, v, e, n, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, s, e, v, e, n, space, quote, seven, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, e, i, g, h, t, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, e, i, g, h, t, space, quote, eight, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, n, i, n, e, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, n, i, n, e, space, quote, nine, quote, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, s, r, c, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, t, m, p, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, c, o, u, n, t, e, r, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, s, r, c, l, e, n, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, u, n, t, e, r, space, zero, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, c, o, u, n, t, e, r, space, lt, space, three, eight, zero, seven, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, t, m, p, space, s, r, c, space, colon, space, c, o, u, n, t, e, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, m, p, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, u, n, t, e, r, space, c, o, u, n, t, e, r, space, plus, space, one, newline, W, e, space, k, n, o, w, space, t, h, e, space, g, a, m, e, space, a, n, d, space, w, e, quote, r, e, space, g, o, n, n, a, space, p, l, a, y, space, i, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, p, a, r, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, O, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, h, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, g, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, i, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, v, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, y, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, u, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, p, a, r, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, N, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, v, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, g, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, u, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, A, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, y, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, O, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, f, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, d, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, d, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, u, n, t, e, r, space, zero, newline, lparen, O, o, h, space, g, i, v, e, space, y, o, u, space, s, r, c, l, e, n, rparen, space, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, A, r, r, a, y, L, e, n, g, t, h, space, a, n, d, space, d, e, s, e, r, t, space, s, r, c, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, c, o, u, n, t, e, r, space, lt, space, s, r, c, l, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, t, m, p, space, s, r, c, space, colon, space, c, o, u, n, t, e, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, l, e, t, space, i, s, s, p, e, c, i, a, l, space, d, o, w, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, F, A, L, S, E, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, s, p, a, c, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, p, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, n, e, w, l, i, n, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, w, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, i, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, q, u, o, t, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, q, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, u, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, b, a, c, k, s, l, a, s, h, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, b, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, k, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, h, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, l, b, r, a, c, k, e, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, b, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, k, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, r, b, r, a, c, k, e, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, b, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, k, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, l, p, a, r, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, p, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, r, p, a, r, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, p, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, l, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, c, o, l, o, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, p, l, u, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, p, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, u, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, c, o, m, m, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, m, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, m, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, e, q, s, i, g, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, q, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, i, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, g, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, b, a, n, g, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, b, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, g, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, z, e, r, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, z, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, o, n, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, t, w, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, w, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, t, h, r, e, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, h, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, f, o, u, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, f, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, o, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, u, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, f, i, v, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, f, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, i, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, v, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, s, i, x, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, i, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, x, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, s, e, v, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, v, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, e, i, g, h, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, i, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, g, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, h, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, t, m, p, space, eqsign, eqsign, space, n, i, n, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, i, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, i, s, s, p, e, c, i, a, l, space, T, R, U, E, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, bang, i, s, s, p, e, c, i, a, l, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, m, p, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, u, n, t, e, r, space, c, o, u, n, t, e, r, space, plus, space, one, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, c, o, u, n, t, e, r, space, lt, space, s, r, c, l, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, c, o, m, m, a, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, s, p, a, c, e, newline, Y, o, u, r, space, h, e, a, r, t, quote, s, space, b, e, e, n, space, a, c, h, i, n, g, space, b, u, t, space, y, o, u, quote, r, e, space, t, o, o, space, s, h, y, space, t, o, space, s, a, y, space, i, t, newline, W, e, space, k, n, o, w, space, t, h, e, space, g, a, m, e, space, a, n, d, space, w, e, quote, r, e, space, g, o, n, n, a, space, p, l, a, y, space, i, t, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, n, e, w, l, i, n, e, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, u, n, t, e, r, space, three, eight, zero, seven, newline, I, n, s, i, d, e, space, w, e, space, b, o, t, h, space, k, n, o, w, space, c, o, u, n, t, e, r, space, lt, space, s, r, c, l, e, n, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, t, m, p, space, s, r, c, space, colon, space, c, o, u, n, t, e, r, newline, N, e, v, e, r, space, g, o, n, n, a, space, r, u, n, space, P, u, t, C, h, a, r, space, a, n, d, space, d, e, s, e, r, t, space, t, m, p, newline, N, e, v, e, r, space, g, o, n, n, a, space, g, i, v, e, space, c, o, u, n, t, e, r, space, c, o, u, n, t, e, r, space, plus, space, one, newline, W, e, space, k, n, o, w, space, t, h, e, space, g, a, m, e, space, a, n, d, space, w, e, quote, r, e, space, g, o, n, n, a, space, p, l, a, y, space, i, t, newline
+Never gonna give counter 0
+Inside we both know counter < 3807
+Never gonna give tmp src : counter
+Never gonna run PutChar and desert tmp
+Never gonna give counter counter + 1
+We know the game and we're gonna play it
+Never gonna run PutChar and desert lparen
+Never gonna run PutChar and desert O
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert h
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert g
+Never gonna run PutChar and desert i
+Never gonna run PutChar and desert v
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert y
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert u
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert c
+Never gonna run PutChar and desert rparen
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert N
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert v
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert g
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert u
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert A
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert y
+Never gonna run PutChar and desert O
+Never gonna run PutChar and desert f
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert d
+Never gonna run PutChar and desert space
+Never gonna run PutChar and desert d
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert t
+Never gonna run PutChar and desert space
+Never gonna give counter 0
+(Ooh give you srclen) Never gonna run ArrayLength and desert src
+Inside we both know counter < srclen
+Never gonna give tmp src : counter
+Never gonna let isspecial down
+Never gonna give isspecial FALSE
+Inside we both know tmp == space
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert p
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert c
+Never gonna run PutChar and desert e
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == newline
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert w
+Never gonna run PutChar and desert l
+Never gonna run PutChar and desert i
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert e
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == quote
+Never gonna run PutChar and desert q
+Never gonna run PutChar and desert u
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert t
+Never gonna run PutChar and desert e
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == backslash
+Never gonna run PutChar and desert b
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert c
+Never gonna run PutChar and desert k
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert l
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert h
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == lbracket
+Never gonna run PutChar and desert l
+Never gonna run PutChar and desert b
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert c
+Never gonna run PutChar and desert k
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert t
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == rbracket
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert b
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert c
+Never gonna run PutChar and desert k
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert t
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == lparen
+Never gonna run PutChar and desert l
+Never gonna run PutChar and desert p
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert n
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == rparen
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert p
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert n
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == lt
+Never gonna run PutChar and desert l
+Never gonna run PutChar and desert t
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == colon
+Never gonna run PutChar and desert c
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert l
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert n
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == plus
+Never gonna run PutChar and desert p
+Never gonna run PutChar and desert l
+Never gonna run PutChar and desert u
+Never gonna run PutChar and desert s
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == comma
+Never gonna run PutChar and desert c
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert m
+Never gonna run PutChar and desert m
+Never gonna run PutChar and desert a
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == eqsign
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert q
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert i
+Never gonna run PutChar and desert g
+Never gonna run PutChar and desert n
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == bang
+Never gonna run PutChar and desert b
+Never gonna run PutChar and desert a
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert g
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == zero
+Never gonna run PutChar and desert z
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert o
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == one
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert e
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == two
+Never gonna run PutChar and desert t
+Never gonna run PutChar and desert w
+Never gonna run PutChar and desert o
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == three
+Never gonna run PutChar and desert t
+Never gonna run PutChar and desert h
+Never gonna run PutChar and desert r
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert e
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == four
+Never gonna run PutChar and desert f
+Never gonna run PutChar and desert o
+Never gonna run PutChar and desert u
+Never gonna run PutChar and desert r
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == five
+Never gonna run PutChar and desert f
+Never gonna run PutChar and desert i
+Never gonna run PutChar and desert v
+Never gonna run PutChar and desert e
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == six
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert i
+Never gonna run PutChar and desert x
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == seven
+Never gonna run PutChar and desert s
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert v
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert n
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == eight
+Never gonna run PutChar and desert e
+Never gonna run PutChar and desert i
+Never gonna run PutChar and desert g
+Never gonna run PutChar and desert h
+Never gonna run PutChar and desert t
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know tmp == nine
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert i
+Never gonna run PutChar and desert n
+Never gonna run PutChar and desert e
+Never gonna give isspecial TRUE
+Your heart's been aching but you're too shy to say it
+Inside we both know !isspecial
+Never gonna run PutChar and desert tmp
+Your heart's been aching but you're too shy to say it
+Never gonna give counter counter + 1
+Inside we both know counter < srclen
+Never gonna run PutChar and desert comma
+Never gonna run PutChar and desert space
+Your heart's been aching but you're too shy to say it
+We know the game and we're gonna play it
+Never gonna run PutChar and desert newline
+Never gonna give counter 3807
+Inside we both know counter < srclen
+Never gonna give tmp src : counter
+Never gonna run PutChar and desert tmp
+Never gonna give counter counter + 1
+We know the game and we're gonna play it
