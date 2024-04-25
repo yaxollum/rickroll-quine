@@ -54,16 +54,32 @@ def array_index(array, index):
     return f"{array} : {index}"
 
 
-def while_loop(cond, body):
+def loop(b, body):
     return (
-        [f"Inside we both know {cond}"]
+        [f"Inside we both know {b}"]
         + body
         + ["We know the game and we're gonna play it"]
     )
 
 
-def less_than(val1, val2):
+def cond(b, body):
+    return (
+        [f"Inside we both know {b}"]
+        + body
+        + ["Your heart's been aching but you're too shy to say it"]
+    )
+
+
+def b_lt(val1, val2):
     return f"{val1} < {val2}"
+
+
+def b_eq(val1, val2):
+    return f"{val1} == {val2}"
+
+
+def b_not(val):
+    return f"!{val}"
 
 
 SPECIAL_CHARS = {
@@ -79,6 +95,8 @@ SPECIAL_CHARS = {
     ":": "colon",
     "+": "plus",
     ",": "comma",
+    "=": "eqsign",
+    "!": "bang",
     "0": "zero",
     "1": "one",
     "2": "two",
@@ -120,6 +138,8 @@ chars = string.ascii_letters + "".join(SPECIAL_CHARS)
 
 define_chars = join_lists(map(define_letter, chars))
 
+TRUE = "TRUE"
+FALSE = "FALSE"
 SRC_VAR = "src"
 ARRAY_OF = "ArrayOf"
 ARRAY_LENGTH = "ArrayLength"
@@ -127,6 +147,7 @@ PUT_CHAR = "PutChar"
 SRC_LEN_VAR = "srclen"
 COUNTER_VAR = "counter"
 TMP_VAR = "tmp"
+IS_SPECIAL_VAR = "isspecial"
 
 
 def lines_to_str(lines):
@@ -151,20 +172,33 @@ loop_body1 = (
 
 loop_body2 = (
     set_var(TMP_VAR, array_index(SRC_VAR, COUNTER_VAR))
-    + put_char(TMP_VAR)
+    + define_var(IS_SPECIAL_VAR, FALSE)
+    + join_lists(
+        cond(
+            b_eq(TMP_VAR, letter_var(c)),
+            put_string(letter_var(c)) + set_var(IS_SPECIAL_VAR, TRUE),
+        )
+        for c in SPECIAL_CHARS
+    )
+    + cond(b_not(IS_SPECIAL_VAR), put_char(TMP_VAR))
     + increment_var(COUNTER_VAR)
+    + cond(b_lt(COUNTER_VAR, SRC_LEN_VAR), put_string(", "))
 )
 
 magic_num = len(lines_to_str(prog_part1))
 prog_part2 = (
     # print prog_part1:
     set_var(COUNTER_VAR, 0)
-    + while_loop(less_than(COUNTER_VAR, magic_num), loop_body1)
+    + loop(b_lt(COUNTER_VAR, magic_num), loop_body1)
     # print build_src:
     + put_string(f"(Ooh give you {SRC_VAR}) Never gonna run {ARRAY_OF} and desert ")
     + set_var(COUNTER_VAR, 0)
     + call_fn(ARRAY_LENGTH, [SRC_VAR], SRC_LEN_VAR)
-    + while_loop(less_than(COUNTER_VAR, SRC_LEN_VAR), loop_body2)
+    + loop(b_lt(COUNTER_VAR, SRC_LEN_VAR), loop_body2)
+    + put_string("\n")
+    # print prog_part2:
+    + set_var(COUNTER_VAR, magic_num)
+    + loop(b_lt(COUNTER_VAR, SRC_LEN_VAR), loop_body1)
 )
 
 build_src = call_fn(
